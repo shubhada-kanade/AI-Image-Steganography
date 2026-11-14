@@ -1,4 +1,4 @@
-# AI Steganography Project
+# AI Steganography
 
 This is my final year college project. It uses deep learning to hide data inside images and 3D files.
 
